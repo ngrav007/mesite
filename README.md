@@ -1,2 +1,2 @@
 # mesite
-Personal Website - Project to earn how to create web application
+Personal Website - Project to learn how to create web application
